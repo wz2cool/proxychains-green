@@ -40,7 +40,7 @@ $ vi proxychains.conf
 http            192.168.16.201 808
 ```
 
-测试访问, 这里我们尝试拿一下百度首页
+测试访问, 这里我们尝试拿一下百度首页, -f 参数是指定配置文件
 
 ```bash
 $ ./proxychains4 -f ./proxychains.conf wget www.baidu.com
