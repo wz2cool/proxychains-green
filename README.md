@@ -2,7 +2,7 @@
 
 proxychains 是一个非常强大的命令行代理工具，不过因为需要编译到系统感觉安装比较麻烦，特别有些场景需要自己软件里面带着 proxychains 工具，这个时候就可以考虑使用本项目已经打包好的绿色版本。
 
-proxychains 绿色版，无需 gcc 编译，这里最好使用 centos5.tar.gz 版本的，这样高版本的系统也是可以用的， 更多细节可以参考 proxychains 原项目：https://github.com/rofl0r/proxychains-ng
+proxychains 绿色版，直接使用，无需 gcc 编译，这里最好使用 centos5.tar.gz 版本的，这样高版本的系统也是可以用的， 更多细节可以参考 proxychains 原项目：https://github.com/rofl0r/proxychains-ng
 
 # 使用方式
 
